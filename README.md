@@ -1,6 +1,6 @@
 # Minijuego Aviones
 
-Este es un pequeño juego de aviones creado en Unity y usando JAVA de lenguaje. Se ha usado Visual Studio Code para la parte de programación.
+Este es un pequeño juego de aviones creado en Unity y usando C# de lenguaje. Se ha usado Visual Studio Code para la parte de programación.
 
 ## Cómo jugar
 
@@ -11,4 +11,4 @@ Este es un pequeño juego de aviones creado en Unity y usando JAVA de lenguaje. 
 
 ## Objetivo del repositorio
 
-Este proyecto está creado para practicar Unity, JAVA y gestión de versiones con Git y GitHub usando GitFlow.
+Este proyecto está creado para practicar Unity, C# y gestión de versiones con Git y GitHub usando GitFlow.
